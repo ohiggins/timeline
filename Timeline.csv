@@ -1,11 +1,11 @@
-names,dates,levels
-end ww2,1945-03-17T03:00:07Z,1
-Transistor,1947-03-17T03:00:07Z,-1
-Man on Moon,1969-03-17T03:00:07Z,3
-Facebook,2001-03-17T03:00:07Z,-3
-Fomo,2018-03-17T03:00:07Z,5
-Covid-19,2021-03-17T03:00:07Z,-5
-Television speaks to me,1955-03-17T03:00:07Z,-6
-Neural Network,2021-03-17T03:00:07Z,-6
-Man in Space,1961-03-17T03:00:07Z,3
-Largactil,1952-03-17T03:00:07Z,-3
+names,dates,levels,color
+end ww2,1945-03-17T03:00:07Z,1,r
+Transistor,1947-03-17T03:00:07Z,-1,r
+Man on Moon,1969-03-17T03:00:07Z,3,r
+Facebook,2001-03-17T03:00:07Z,-3,r
+Fomo,2018-03-17T03:00:07Z,5,r
+Covid-19,2021-03-17T03:00:07Z,-5,r
+Television speaks to me,1955-03-17T03:00:07Z,-6,g
+Neural Network,2021-03-17T03:00:07Z,-6,g
+Man in Space,1961-03-17T03:00:07Z,3,r
+Largactil,1952-03-17T03:00:07Z,-3,b
